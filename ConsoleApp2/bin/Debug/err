@@ -1,0 +1,1143 @@
+ZZZZZZZZZZZZZ Hello World AAAAAAAAAAAAAAAA
+1) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006671.xml System.Size: 326954 
+2) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\Downloads\Alter Grade Code Corrected.sql System.Size: 76 
+3) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.2.0\lib\net40\EntityFramework.xml System.Size: 3256661 
+4) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000003.xml System.Size: 168941 
+5) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000004.xml System.Size: 139746 
+6) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.xml System.Size: 29658 
+7) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.1\System.Diagnostics.DiagnosticSource.xml System.Size: 27142 
+8) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.xml System.Size: 29658 
+9) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\portable-net45+win8+wpa81\System.Diagnostics.DiagnosticSource.xml System.Size: 27142 
+10) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\ref\netstandard1.3\System.Security.Cryptography.X509Certificates.xml System.Size: 167913 
+11) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\net45\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+12) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\ref\netstandard1.4\System.Security.Cryptography.X509Certificates.xml System.Size: 167913 
+13) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.0\System.Threading.Tasks.Dataflow.XML System.Size: 713945 
+14) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+15) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\net45\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+16) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.XML System.Size: 690988 
+17) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\portable-net45+win8+wpa81\System.Threading.Tasks.Dataflow.XML System.Size: 690988 
+18) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+19) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+20) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\System.Linq.Expressions.xml System.Size: 516220 
+21) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\de\System.Linq.Expressions.xml System.Size: 550845 
+22) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\es\System.Linq.Expressions.xml System.Size: 540328 
+23) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\fr\System.Linq.Expressions.xml System.Size: 542152 
+24) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\it\System.Linq.Expressions.xml System.Size: 538418 
+25) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ja\System.Linq.Expressions.xml System.Size: 558327 
+26) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ko\System.Linq.Expressions.xml System.Size: 534642 
+27) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ru\System.Linq.Expressions.xml System.Size: 672577 
+28) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+29) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+30) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\System.Linq.Expressions.xml System.Size: 516220 
+31) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\net45\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+32) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\de\System.Linq.Expressions.xml System.Size: 550845 
+33) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+34) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\es\System.Linq.Expressions.xml System.Size: 540328 
+35) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\fr\System.Linq.Expressions.xml System.Size: 542152 
+36) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\it\System.Linq.Expressions.xml System.Size: 538418 
+37) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+38) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ja\System.Linq.Expressions.xml System.Size: 558327 
+39) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ko\System.Linq.Expressions.xml System.Size: 534642 
+40) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ru\System.Linq.Expressions.xml System.Size: 672577 
+41) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+42) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+43) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+44) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\System.Linq.Expressions.xml System.Size: 516220 
+45) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\de\System.Linq.Expressions.xml System.Size: 550845 
+46) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\es\System.Linq.Expressions.xml System.Size: 540328 
+47) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\fr\System.Linq.Expressions.xml System.Size: 542152 
+48) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\it\System.Linq.Expressions.xml System.Size: 538418 
+49) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ja\System.Linq.Expressions.xml System.Size: 558327 
+50) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ko\System.Linq.Expressions.xml System.Size: 534642 
+51) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ru\System.Linq.Expressions.xml System.Size: 672577 
+52) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+53) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+54) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\System.Linq.Expressions.xml System.Size: 516220 
+55) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\de\System.Linq.Expressions.xml System.Size: 550845 
+56) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\es\System.Linq.Expressions.xml System.Size: 540328 
+57) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\fr\System.Linq.Expressions.xml System.Size: 542152 
+58) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\it\System.Linq.Expressions.xml System.Size: 538418 
+59) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ja\System.Linq.Expressions.xml System.Size: 558327 
+60) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ko\System.Linq.Expressions.xml System.Size: 534642 
+61) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ru\System.Linq.Expressions.xml System.Size: 672577 
+62) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+63) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+64) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netcore50\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+65) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.1\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+66) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.2\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+67) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.3\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+68) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.5\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+69) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.io.filesystem\4.3.0\ref\netstandard1.3\System.IO.FileSystem.xml System.Size: 283171 
+70) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netcore50\fr\System.Runtime.xml System.Size: 1562312 
+71) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.0\fr\System.Runtime.xml System.Size: 1562312 
+72) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.2\fr\System.Runtime.xml System.Size: 1562312 
+73) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.3\fr\System.Runtime.xml System.Size: 1562312 
+74) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.5\fr\System.Runtime.xml System.Size: 1562312 
+75) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.io.filesystem\4.0.1\ref\netstandard1.3\System.IO.FileSystem.xml System.Size: 283171 
+76) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netcore50\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+77) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.1\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+78) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netcore50\fr\System.Runtime.xml System.Size: 1562312 
+79) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.2\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+80) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.3\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+81) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.0\fr\System.Runtime.xml System.Size: 1562312 
+82) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.5\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+83) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.2\fr\System.Runtime.xml System.Size: 1562312 
+84) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.3\fr\System.Runtime.xml System.Size: 1562312 
+85) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.5\fr\System.Runtime.xml System.Size: 1562312 
+86) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\lib\util.js System.Size: 10484 
+87) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\dist\source-map.debug.js System.Size: 256678 
+88) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\dist\source-map.js System.Size: 100453 
+89) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\amdefine\amdefine.js System.Size: 9916 
+90) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\source-map\lib\source-map\util.js System.Size: 10057 
+91) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\lib\compress.js System.Size: 174559 
+92) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\lib\output.js System.Size: 47893 
+93) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\wordwrap\test\idleness.txt System.Size: 28635 
+94) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\My Web Sites\WebSite1\iisstart.htm System.Size: 691 
+95) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\Sample\Sourcecode\UpgradeLog.htm System.Size: 69504 
+96) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000001.xml System.Size: 255228 
+97) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000002.xml System.Size: 139746 
+98) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\WebApplication2\bin\System.Web.Http.xml System.Size: 539657 
+99) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\EntityFramework.xml System.Size: 3652961 
+100) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+101) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+102) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\System.Web.Http.xml System.Size: 539657 
+103) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\jquery-1.10.2.js System.Size: 273990 
+104) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\jquery-ui-1.11.1.js System.Size: 464435 
+105) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+106) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Project_Readme.html System.Size: 5277 
+107) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\App_Start\BundleConfig.cs System.Size: 1723 
+108) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\App_Start\Startup.Auth.cs System.Size: 3513 
+109) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Controllers\AccountController.cs System.Size: 17811 
+110) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Models\IdentityModels.cs System.Size: 1242 
+111) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\EntityFramework.6.1.1\lib\net40\EntityFramework.xml System.Size: 3210368 
+112) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.xml System.Size: 3623761 
+113) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\WebApplication1.csproj System.Size: 24332 
+114) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\jquery-1.10.2.js System.Size: 273990 
+115) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+116) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+117) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\sammy-0.7.4.js System.Size: 78702 
+118) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Models\IdentityModels.cs System.Size: 1295 
+119) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs System.Size: 21408 
+120) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\App_Start\BundleConfig.cs System.Size: 1877 
+121) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\App_Start\Startup.Auth.cs System.Size: 4128 
+122) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.js System.Size: 78702 
+123) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 51458 
+124) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+125) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+126) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+127) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\knockoutjs.2.3.0\Content\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+128) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 215101 
+129) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273990 
+130) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+131) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+132) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 214296 
+133) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273199 
+134) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Microsoft.AspNet.Identity.EntityFramework.2.1.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 46003 
+135) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Microsoft.Owin.Security.Cookies.3.0.0\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+136) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 50144 
+137) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\EntityFramework.xml System.Size: 3623761 
+138) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 46003 
+139) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+140) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\App_Start\BundleConfig.cs System.Size: 1877 
+141) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\App_Start\Startup.Auth.cs System.Size: 4549 
+142) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Controllers\AccountController.cs System.Size: 18491 
+143) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Models\IdentityModels.cs System.Size: 1295 
+144) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\WebApplication1.csproj System.Size: 24578 
+145) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+146) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+147) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 215101 
+148) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273990 
+149) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.js System.Size: 273990 
+150) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\knockoutjs.2.3.0\Content\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+151) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+152) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+153) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+154) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+155) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs System.Size: 21408 
+156) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 51458 
+157) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+158) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.js System.Size: 78702 
+159) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\sammy-0.7.4.js System.Size: 78702 
+160) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\EntityFramework.xml System.Size: 3652961 
+161) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+162) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+163) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\System.Web.Http.xml System.Size: 539657 
+164) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\WebApplication2\WebApplication2.csproj System.Size: 9359 
+165) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+166) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000002.xml System.Size: 164191 
+167) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000005.xml System.Size: 164190 
+168) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000007.xml System.Size: 226443 
+169) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000009.xml System.Size: 164191 
+170) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000012.xml System.Size: 164207 
+171) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000014.xml System.Size: 164207 
+172) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.aspnet.webapi.core\5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+173) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\jquery\1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 214296 
+174) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\jquery\1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273199 
+175) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\modernizr\2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 50144 
+176) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+177) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+178) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-animate.js System.Size: 150696 
+179) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-mocks.js System.Size: 108145 
+180) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-scenario.js System.Size: 1504143 
+181) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular.js System.Size: 1174125 
+182) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs.core\1.6.4\content\Scripts\angular-mocks.js System.Size: 119433 
+183) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs.core\1.6.4\content\Scripts\angular.js System.Size: 1249863 
+184) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006677.xml System.Size: 327122 
+185) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.2.0\lib\net45\EntityFramework.xml System.Size: 3680079 
+186) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006682.xml System.Size: 326876 
+187) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\Downloads\rental_agreement.doc System.Size: 59392 
+188) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000022.xml System.Size: 255524 
+189) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000025.xml System.Size: 255524 
+190) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000006.xml System.Size: 162984 
+191) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000007.xml System.Size: 147994 
+192) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000028.xml System.Size: 255523 
+193) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000032.xml System.Size: 255523 
+194) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006645.xml System.Size: 326889 
+195) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-animate.js System.Size: 150935 
+196) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-mocks.js System.Size: 119433 
+197) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-scenario.js System.Size: 1583249 
+198) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular.js System.Size: 1249863 
+199) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000096.xml System.Size: 278449 
+200) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000097.xml System.Size: 288084 
+201) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000105.xml System.Size: 278424 
+202) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000113.xml System.Size: 365288 
+203) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000120.xml System.Size: 364964 
+204) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000121.xml System.Size: 365287 
+205) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000128.xml System.Size: 288182 
+206) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-vscode.azure-account-0.8.0\dist\cloudConsoleLauncher.js System.Size: 954373 
+207) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\net40\Microsoft.Data.Services.Client.xml System.Size: 1459578 
+208) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Services.Client.xml System.Size: 1527281 
+209) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\sl4\Microsoft.Data.Services.Client.xml System.Size: 1513315 
+210) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\net40\Microsoft.Data.OData.xml System.Size: 3709853 
+211) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Data.OData.xml System.Size: 3704771 
+212) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.OData.xml System.Size: 3720807 
+213) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\sl4\Microsoft.Data.OData.xml System.Size: 3493024 
+214) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\errors.js System.Size: 4357 
+215) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\transformers\baseSourceMapTransformer.js System.Size: 16380 
+216) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\chrome\chromeDebugSession.js System.Size: 13510 
+217) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\chrome\crdpMultiplexing\crdpMultiplexor.js System.Size: 8985 
+218) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\lib\util.js System.Size: 12950 
+219) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\dist\source-map.debug.js System.Size: 272874 
+220) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\dist\source-map.js System.Size: 106973 
+221) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\minimatch\minimatch.js System.Size: 25347 
+222) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\inflight\inflight.js System.Size: 1365 
+223) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\server\node_modules\semver\semver.js System.Size: 37959 
+224) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\server\node_modules\minimatch\minimatch.js System.Size: 25347 
+225) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\out\extension.js System.Size: 21622 
+226) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\node_modules\vscode-languageclient\node_modules\semver\semver.js System.Size: 36504 
+227) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\node_modules\dom-walk\example\static\bundle.js System.Size: 14825 
+228) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\xregexp-all.js System.Size: 237359 
+229) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\src\xregexp.js System.Size: 71249 
+230) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\lib\xregexp.js System.Size: 71879 
+231) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xml2js\node_modules\sax\lib\sax.js System.Size: 43541 
+232) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\vscode-azureappservice\lib\connectToGitHub.js System.Size: 10419 
+233) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\uri-js\tests\qunit.js System.Size: 29005 
+234) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\uri-js\dist\es5\uri.all.js System.Size: 55217 
+235) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\underscore\underscore.js System.Size: 58319 
+236) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\tough-cookie\node_modules\punycode\punycode.js System.Size: 14670 
+237) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sshpk\lib\formats\dnssec.js System.Size: 9193 
+238) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sshpk\lib\formats\x509.js System.Size: 19079 
+239) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\semver\semver.js System.Size: 37959 
+240) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sax\lib\sax.js System.Size: 37511 
+241) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sax\examples\shopping.xml System.Size: 99650 
+242) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\readable-stream\lib\_stream_readable.js System.Size: 31309 
+243) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\readable-stream\lib\_stream_transform.js System.Size: 7727 
+244) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\punycode\punycode.es6.js System.Size: 12630 
+245) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\punycode\punycode.js System.Size: 12561 
+246) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\psl\dist\psl.js System.Size: 140285 
+247) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\psl\dist\psl.min.js System.Size: 124377 
+248) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\portfinder\node_modules\async\lib\async.js System.Size: 38564 
+249) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\portfinder\node_modules\async\dist\async.js System.Size: 38564 
+250) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\pend\index.js System.Size: 1101 
+251) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\pend\test.js System.Size: 2449 
+252) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ms-rest-azure\index.d.ts System.Size: 46784 
+253) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ms-rest-azure\lib\azureEnvironment.js System.Size: 9394 
+254) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\minimatch\minimatch.js System.Size: 25347 
+255) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\lru-cache\index.js System.Size: 10689 
+256) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\lodash\lodash.min.js System.Size: 73229 
+257) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\inflight\inflight.js System.Size: 1365 
+258) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\http-signature\lib\signer.js System.Size: 13013 
+259) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\graceful-fs\graceful-fs.js System.Size: 7552 
+260) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\fd-slicer\index.js System.Size: 7142 
+261) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\fd-slicer\test\test.js System.Size: 12129 
+262) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\extsprintf\lib\extsprintf.js System.Size: 4172 
+263) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\date-utils\doc\scripts\docstrap.lib.js System.Size: 312524 
+264) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\dashdash\lib\dashdash.js System.Size: 35297 
+265) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\buffer\index.js System.Size: 48761 
+266) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\base64-js\index.js System.Size: 3940 
+267) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\underscore\underscore.js System.Size: 52919 
+268) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\readable-stream\lib\_stream_readable.js System.Size: 25638 
+269) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\readable-stream\lib\_stream_transform.js System.Size: 6354 
+270) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\lib\common\services\storageserviceclient.js System.Size: 59415 
+271) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-blob.html System.Size: 28668 
+272) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-file.html System.Size: 31114 
+273) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-queue.html System.Size: 24643 
+274) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-table.html System.Size: 23500 
+275) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\asynckit\lib\iterate.js System.Size: 1794 
+276) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\cargo.js System.Size: 4651 
+277) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\queue.js System.Size: 5855 
+278) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\internal\applyEach.js System.Size: 1056 
+279) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\dist\async.js System.Size: 184505 
+280) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ajv\dist\ajv.bundle.js System.Size: 265540 
+281) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\adal-node\lib\authentication-parameters.js System.Size: 10946 
+282) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\adal-node\lib\log.js System.Size: 7609 
+283) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Favorites Bar\Web Slice Gallery.url System.Size: 226 
+284) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Websites for United States\USA.gov.url System.Size: 134 
+285) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Websites for United States\GobiernoUSA.gov.url System.Size: 134 
+ADODB.RecordsetClass
+1) fr006671.xml
+2) Alter Grade Code Corrected.sql
+3) EntityFramework.xml
+4) fr000003.xml
+5) fr000004.xml
+6) System.Diagnostics.DiagnosticSource.xml
+7) System.Diagnostics.DiagnosticSource.xml
+8) System.Diagnostics.DiagnosticSource.xml
+9) System.Diagnostics.DiagnosticSource.xml
+10) System.Security.Cryptography.X509Certificates.xml
+11) Microsoft.CodeAnalysis.CSharp.xml
+12) System.Security.Cryptography.X509Certificates.xml
+13) System.Threading.Tasks.Dataflow.XML
+14) Microsoft.CodeAnalysis.CSharp.xml
+15) Microsoft.CodeAnalysis.VisualBasic.xml
+16) System.Threading.Tasks.Dataflow.XML
+17) System.Threading.Tasks.Dataflow.XML
+18) Microsoft.CodeAnalysis.CSharp.xml
+19) Microsoft.CodeAnalysis.VisualBasic.xml
+20) System.Linq.Expressions.xml
+21) System.Linq.Expressions.xml
+22) System.Linq.Expressions.xml
+23) System.Linq.Expressions.xml
+24) System.Linq.Expressions.xml
+25) System.Linq.Expressions.xml
+26) System.Linq.Expressions.xml
+27) System.Linq.Expressions.xml
+28) System.Linq.Expressions.xml
+29) System.Linq.Expressions.xml
+30) System.Linq.Expressions.xml
+31) Microsoft.CodeAnalysis.xml
+32) System.Linq.Expressions.xml
+33) Microsoft.CodeAnalysis.VisualBasic.xml
+34) System.Linq.Expressions.xml
+35) System.Linq.Expressions.xml
+36) System.Linq.Expressions.xml
+37) Microsoft.CodeAnalysis.xml
+38) System.Linq.Expressions.xml
+39) System.Linq.Expressions.xml
+40) System.Linq.Expressions.xml
+41) System.Linq.Expressions.xml
+42) System.Linq.Expressions.xml
+43) Microsoft.CodeAnalysis.xml
+44) System.Linq.Expressions.xml
+45) System.Linq.Expressions.xml
+46) System.Linq.Expressions.xml
+47) System.Linq.Expressions.xml
+48) System.Linq.Expressions.xml
+49) System.Linq.Expressions.xml
+50) System.Linq.Expressions.xml
+51) System.Linq.Expressions.xml
+52) System.Linq.Expressions.xml
+53) System.Linq.Expressions.xml
+54) System.Linq.Expressions.xml
+55) System.Linq.Expressions.xml
+56) System.Linq.Expressions.xml
+57) System.Linq.Expressions.xml
+58) System.Linq.Expressions.xml
+59) System.Linq.Expressions.xml
+60) System.Linq.Expressions.xml
+61) System.Linq.Expressions.xml
+62) System.Linq.Expressions.xml
+63) System.Linq.Expressions.xml
+64) System.Runtime.InteropServices.xml
+65) System.Runtime.InteropServices.xml
+66) System.Runtime.InteropServices.xml
+67) System.Runtime.InteropServices.xml
+68) System.Runtime.InteropServices.xml
+69) System.IO.FileSystem.xml
+70) System.Runtime.xml
+71) System.Runtime.xml
+72) System.Runtime.xml
+73) System.Runtime.xml
+74) System.Runtime.xml
+75) System.IO.FileSystem.xml
+76) System.Runtime.InteropServices.xml
+77) System.Runtime.InteropServices.xml
+78) System.Runtime.xml
+79) System.Runtime.InteropServices.xml
+80) System.Runtime.InteropServices.xml
+81) System.Runtime.xml
+82) System.Runtime.InteropServices.xml
+83) System.Runtime.xml
+84) System.Runtime.xml
+85) System.Runtime.xml
+86) util.js
+87) source-map.debug.js
+88) source-map.js
+89) amdefine.js
+90) util.js
+91) compress.js
+92) output.js
+93) idleness.txt
+94) iisstart.htm
+95) UpgradeLog.htm
+96) fr000001.xml
+97) fr000002.xml
+98) System.Web.Http.xml
+99) EntityFramework.xml
+100) Microsoft.AspNet.Identity.EntityFramework.xml
+101) Microsoft.Owin.Security.Cookies.xml
+102) System.Web.Http.xml
+103) jquery-1.10.2.js
+104) jquery-ui-1.11.1.js
+105) modernizr-2.6.2.js
+106) Project_Readme.html
+107) BundleConfig.cs
+108) Startup.Auth.cs
+109) AccountController.cs
+110) IdentityModels.cs
+111) EntityFramework.xml
+112) EntityFramework.xml
+113) WebApplication1.csproj
+114) jquery-1.10.2.js
+115) knockout-2.3.0.debug.js
+116) modernizr-2.6.2.js
+117) sammy-0.7.4.js
+118) IdentityModels.cs
+119) HelpPageSampleGenerator.cs
+120) BundleConfig.cs
+121) Startup.Auth.cs
+122) sammy-0.7.4.js
+123) modernizr-2.6.2.js
+124) Microsoft.Owin.Security.Cookies.xml
+125) System.Web.Http.xml
+126) Microsoft.AspNet.Identity.EntityFramework.xml
+127) knockout-2.3.0.debug.js
+128) jquery-1.10.2-vsdoc.js
+129) jquery-1.10.2.js
+130) EntityFramework.xml
+131) EntityFramework.xml
+132) jquery-1.10.2-vsdoc.js
+133) jquery-1.10.2.js
+134) Microsoft.AspNet.Identity.EntityFramework.xml
+135) Microsoft.Owin.Security.Cookies.xml
+136) modernizr-2.6.2.js
+137) EntityFramework.xml
+138) Microsoft.AspNet.Identity.EntityFramework.xml
+139) Microsoft.Owin.Security.Cookies.xml
+140) BundleConfig.cs
+141) Startup.Auth.cs
+142) AccountController.cs
+143) IdentityModels.cs
+144) WebApplication1.csproj
+145) EntityFramework.xml
+146) EntityFramework.xml
+147) jquery-1.10.2-vsdoc.js
+148) jquery-1.10.2.js
+149) jquery-1.10.2.js
+150) knockout-2.3.0.debug.js
+151) knockout-2.3.0.debug.js
+152) Microsoft.Owin.Security.Cookies.xml
+153) Microsoft.AspNet.Identity.EntityFramework.xml
+154) System.Web.Http.xml
+155) HelpPageSampleGenerator.cs
+156) modernizr-2.6.2.js
+157) modernizr-2.6.2.js
+158) sammy-0.7.4.js
+159) sammy-0.7.4.js
+160) EntityFramework.xml
+161) Microsoft.AspNet.Identity.EntityFramework.xml
+162) Microsoft.Owin.Security.Cookies.xml
+163) System.Web.Http.xml
+164) WebApplication2.csproj
+165) System.Web.Http.xml
+166) fr000002.xml
+167) fr000005.xml
+168) fr000007.xml
+169) fr000009.xml
+170) fr000012.xml
+171) fr000014.xml
+172) System.Web.Http.xml
+173) jquery-1.10.2-vsdoc.js
+174) jquery-1.10.2.js
+175) modernizr-2.6.2.js
+176) EntityFramework.xml
+177) EntityFramework.xml
+178) angular-animate.js
+179) angular-mocks.js
+180) angular-scenario.js
+181) angular.js
+182) angular-mocks.js
+183) angular.js
+184) fr006677.xml
+185) EntityFramework.xml
+186) fr006682.xml
+187) rental_agreement.doc
+188) fr000022.xml
+189) fr000025.xml
+190) fr000006.xml
+191) fr000007.xml
+192) fr000028.xml
+193) fr000032.xml
+194) fr006645.xml
+195) angular-animate.js
+196) angular-mocks.js
+197) angular-scenario.js
+198) angular.js
+199) fr000096.xml
+200) fr000097.xml
+201) fr000105.xml
+202) fr000113.xml
+203) fr000120.xml
+204) fr000121.xml
+205) fr000128.xml
+206) cloudConsoleLauncher.js
+207) Microsoft.Data.Services.Client.xml
+208) Microsoft.Data.Services.Client.xml
+209) Microsoft.Data.Services.Client.xml
+210) Microsoft.Data.OData.xml
+211) Microsoft.Data.OData.xml
+212) Microsoft.Data.OData.xml
+213) Microsoft.Data.OData.xml
+214) errors.js
+215) baseSourceMapTransformer.js
+216) chromeDebugSession.js
+217) crdpMultiplexor.js
+218) util.js
+219) source-map.debug.js
+220) source-map.js
+221) minimatch.js
+222) inflight.js
+223) semver.js
+224) minimatch.js
+225) extension.js
+226) semver.js
+227) bundle.js
+228) xregexp-all.js
+229) xregexp.js
+230) xregexp.js
+231) sax.js
+232) connectToGitHub.js
+233) qunit.js
+234) uri.all.js
+235) underscore.js
+236) punycode.js
+237) dnssec.js
+238) x509.js
+239) semver.js
+240) sax.js
+241) shopping.xml
+242) _stream_readable.js
+243) _stream_transform.js
+244) punycode.es6.js
+245) punycode.js
+246) psl.js
+247) psl.min.js
+248) async.js
+249) async.js
+250) index.js
+251) test.js
+252) index.d.ts
+253) azureEnvironment.js
+254) minimatch.js
+255) index.js
+256) lodash.min.js
+257) inflight.js
+258) signer.js
+259) graceful-fs.js
+260) index.js
+261) test.js
+262) extsprintf.js
+263) docstrap.lib.js
+264) dashdash.js
+265) index.js
+266) index.js
+267) underscore.js
+268) _stream_readable.js
+269) _stream_transform.js
+270) storageserviceclient.js
+271) sample-blob.html
+272) sample-file.html
+273) sample-queue.html
+274) sample-table.html
+275) iterate.js
+276) cargo.js
+277) queue.js
+278) applyEach.js
+279) async.js
+280) ajv.bundle.js
+281) authentication-parameters.js
+282) log.js
+283) Web Slice Gallery.url
+284) USA.gov.url
+285) GobiernoUSA.gov.url
+ADODB.RecordsetClass
+1) fr006671.xml
+2) Alter Grade Code Corrected.sql
+3) EntityFramework.xml
+4) fr000003.xml
+5) fr000004.xml
+6) System.Diagnostics.DiagnosticSource.xml
+7) System.Diagnostics.DiagnosticSource.xml
+8) System.Diagnostics.DiagnosticSource.xml
+9) System.Diagnostics.DiagnosticSource.xml
+10) System.Security.Cryptography.X509Certificates.xml
+11) Microsoft.CodeAnalysis.CSharp.xml
+12) System.Security.Cryptography.X509Certificates.xml
+13) System.Threading.Tasks.Dataflow.XML
+14) Microsoft.CodeAnalysis.CSharp.xml
+15) Microsoft.CodeAnalysis.VisualBasic.xml
+16) System.Threading.Tasks.Dataflow.XML
+17) System.Threading.Tasks.Dataflow.XML
+18) Microsoft.CodeAnalysis.CSharp.xml
+19) Microsoft.CodeAnalysis.VisualBasic.xml
+20) System.Linq.Expressions.xml
+21) System.Linq.Expressions.xml
+22) System.Linq.Expressions.xml
+23) System.Linq.Expressions.xml
+24) System.Linq.Expressions.xml
+25) System.Linq.Expressions.xml
+26) System.Linq.Expressions.xml
+27) System.Linq.Expressions.xml
+28) System.Linq.Expressions.xml
+29) System.Linq.Expressions.xml
+30) System.Linq.Expressions.xml
+31) Microsoft.CodeAnalysis.xml
+32) System.Linq.Expressions.xml
+33) Microsoft.CodeAnalysis.VisualBasic.xml
+34) System.Linq.Expressions.xml
+35) System.Linq.Expressions.xml
+36) System.Linq.Expressions.xml
+37) Microsoft.CodeAnalysis.xml
+38) System.Linq.Expressions.xml
+39) System.Linq.Expressions.xml
+40) System.Linq.Expressions.xml
+41) System.Linq.Expressions.xml
+42) System.Linq.Expressions.xml
+43) Microsoft.CodeAnalysis.xml
+44) System.Linq.Expressions.xml
+45) System.Linq.Expressions.xml
+46) System.Linq.Expressions.xml
+47) System.Linq.Expressions.xml
+48) System.Linq.Expressions.xml
+49) System.Linq.Expressions.xml
+50) System.Linq.Expressions.xml
+51) System.Linq.Expressions.xml
+52) System.Linq.Expressions.xml
+53) System.Linq.Expressions.xml
+54) System.Linq.Expressions.xml
+55) System.Linq.Expressions.xml
+56) System.Linq.Expressions.xml
+57) System.Linq.Expressions.xml
+58) System.Linq.Expressions.xml
+59) System.Linq.Expressions.xml
+60) System.Linq.Expressions.xml
+61) System.Linq.Expressions.xml
+62) System.Linq.Expressions.xml
+63) System.Linq.Expressions.xml
+64) System.Runtime.InteropServices.xml
+65) System.Runtime.InteropServices.xml
+66) System.Runtime.InteropServices.xml
+67) System.Runtime.InteropServices.xml
+68) System.Runtime.InteropServices.xml
+69) System.IO.FileSystem.xml
+70) System.Runtime.xml
+71) System.Runtime.xml
+72) System.Runtime.xml
+73) System.Runtime.xml
+74) System.Runtime.xml
+75) System.IO.FileSystem.xml
+76) System.Runtime.InteropServices.xml
+77) System.Runtime.InteropServices.xml
+78) System.Runtime.xml
+79) System.Runtime.InteropServices.xml
+80) System.Runtime.InteropServices.xml
+81) System.Runtime.xml
+82) System.Runtime.InteropServices.xml
+83) System.Runtime.xml
+84) System.Runtime.xml
+85) System.Runtime.xml
+86) util.js
+87) source-map.debug.js
+88) source-map.js
+89) amdefine.js
+90) util.js
+91) compress.js
+92) output.js
+93) idleness.txt
+94) iisstart.htm
+95) UpgradeLog.htm
+96) fr000001.xml
+97) fr000002.xml
+98) System.Web.Http.xml
+99) EntityFramework.xml
+100) Microsoft.AspNet.Identity.EntityFramework.xml
+101) Microsoft.Owin.Security.Cookies.xml
+102) System.Web.Http.xml
+103) jquery-1.10.2.js
+104) jquery-ui-1.11.1.js
+105) modernizr-2.6.2.js
+106) Project_Readme.html
+107) BundleConfig.cs
+108) Startup.Auth.cs
+109) AccountController.cs
+110) IdentityModels.cs
+111) EntityFramework.xml
+112) EntityFramework.xml
+113) WebApplication1.csproj
+114) jquery-1.10.2.js
+115) knockout-2.3.0.debug.js
+116) modernizr-2.6.2.js
+117) sammy-0.7.4.js
+118) IdentityModels.cs
+119) HelpPageSampleGenerator.cs
+120) BundleConfig.cs
+121) Startup.Auth.cs
+122) sammy-0.7.4.js
+123) modernizr-2.6.2.js
+124) Microsoft.Owin.Security.Cookies.xml
+125) System.Web.Http.xml
+126) Microsoft.AspNet.Identity.EntityFramework.xml
+127) knockout-2.3.0.debug.js
+128) jquery-1.10.2-vsdoc.js
+129) jquery-1.10.2.js
+130) EntityFramework.xml
+131) EntityFramework.xml
+132) jquery-1.10.2-vsdoc.js
+133) jquery-1.10.2.js
+134) Microsoft.AspNet.Identity.EntityFramework.xml
+135) Microsoft.Owin.Security.Cookies.xml
+136) modernizr-2.6.2.js
+137) EntityFramework.xml
+138) Microsoft.AspNet.Identity.EntityFramework.xml
+139) Microsoft.Owin.Security.Cookies.xml
+140) BundleConfig.cs
+141) Startup.Auth.cs
+142) AccountController.cs
+143) IdentityModels.cs
+144) WebApplication1.csproj
+145) EntityFramework.xml
+146) EntityFramework.xml
+147) jquery-1.10.2-vsdoc.js
+148) jquery-1.10.2.js
+149) jquery-1.10.2.js
+150) knockout-2.3.0.debug.js
+151) knockout-2.3.0.debug.js
+152) Microsoft.Owin.Security.Cookies.xml
+153) Microsoft.AspNet.Identity.EntityFramework.xml
+154) System.Web.Http.xml
+155) HelpPageSampleGenerator.cs
+156) modernizr-2.6.2.js
+157) modernizr-2.6.2.js
+158) sammy-0.7.4.js
+159) sammy-0.7.4.js
+160) EntityFramework.xml
+161) Microsoft.AspNet.Identity.EntityFramework.xml
+162) Microsoft.Owin.Security.Cookies.xml
+163) System.Web.Http.xml
+164) WebApplication2.csproj
+165) System.Web.Http.xml
+166) fr000002.xml
+167) fr000005.xml
+168) fr000007.xml
+169) fr000009.xml
+170) fr000012.xml
+171) fr000014.xml
+172) System.Web.Http.xml
+173) jquery-1.10.2-vsdoc.js
+174) jquery-1.10.2.js
+175) modernizr-2.6.2.js
+176) EntityFramework.xml
+177) EntityFramework.xml
+178) angular-animate.js
+179) angular-mocks.js
+180) angular-scenario.js
+181) angular.js
+182) angular-mocks.js
+183) angular.js
+184) fr006677.xml
+185) EntityFramework.xml
+186) fr006682.xml
+187) rental_agreement.doc
+188) fr000022.xml
+189) fr000025.xml
+190) fr000006.xml
+191) fr000007.xml
+192) fr000028.xml
+193) fr000032.xml
+194) fr006645.xml
+195) angular-animate.js
+196) angular-mocks.js
+197) angular-scenario.js
+198) angular.js
+199) fr000096.xml
+200) fr000097.xml
+201) fr000105.xml
+202) fr000113.xml
+203) fr000120.xml
+204) fr000121.xml
+205) fr000128.xml
+206) cloudConsoleLauncher.js
+207) Microsoft.Data.Services.Client.xml
+208) Microsoft.Data.Services.Client.xml
+209) Microsoft.Data.Services.Client.xml
+210) Microsoft.Data.OData.xml
+211) Microsoft.Data.OData.xml
+212) Microsoft.Data.OData.xml
+213) Microsoft.Data.OData.xml
+214) errors.js
+215) baseSourceMapTransformer.js
+216) chromeDebugSession.js
+217) crdpMultiplexor.js
+218) util.js
+219) source-map.debug.js
+220) source-map.js
+221) minimatch.js
+222) inflight.js
+223) semver.js
+224) minimatch.js
+225) extension.js
+226) semver.js
+227) bundle.js
+228) xregexp-all.js
+229) xregexp.js
+230) xregexp.js
+231) sax.js
+232) connectToGitHub.js
+233) qunit.js
+234) uri.all.js
+235) underscore.js
+236) punycode.js
+237) dnssec.js
+238) x509.js
+239) semver.js
+240) sax.js
+241) shopping.xml
+242) _stream_readable.js
+243) _stream_transform.js
+244) punycode.es6.js
+245) punycode.js
+246) psl.js
+247) psl.min.js
+248) async.js
+249) async.js
+250) index.js
+251) test.js
+252) index.d.ts
+253) azureEnvironment.js
+254) minimatch.js
+255) index.js
+256) lodash.min.js
+257) inflight.js
+258) signer.js
+259) graceful-fs.js
+260) index.js
+261) test.js
+262) extsprintf.js
+263) docstrap.lib.js
+264) dashdash.js
+265) index.js
+266) index.js
+267) underscore.js
+268) _stream_readable.js
+269) _stream_transform.js
+270) storageserviceclient.js
+271) sample-blob.html
+272) sample-file.html
+273) sample-queue.html
+274) sample-table.html
+275) iterate.js
+276) cargo.js
+277) queue.js
+278) applyEach.js
+279) async.js
+280) ajv.bundle.js
+281) authentication-parameters.js
+282) log.js
+283) Web Slice Gallery.url
+284) USA.gov.url
+285) GobiernoUSA.gov.url
+1) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006671.xml System.Size: 326954 
+2) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\Downloads\Alter Grade Code Corrected.sql System.Size: 76 
+3) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.2.0\lib\net40\EntityFramework.xml System.Size: 3256661 
+4) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000003.xml System.Size: 168941 
+5) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000004.xml System.Size: 139746 
+6) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\net46\System.Diagnostics.DiagnosticSource.xml System.Size: 29658 
+7) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.1\System.Diagnostics.DiagnosticSource.xml System.Size: 27142 
+8) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.xml System.Size: 29658 
+9) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.diagnostics.diagnosticsource\4.3.0\lib\portable-net45+win8+wpa81\System.Diagnostics.DiagnosticSource.xml System.Size: 27142 
+10) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\ref\netstandard1.3\System.Security.Cryptography.X509Certificates.xml System.Size: 167913 
+11) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\net45\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+12) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.security.cryptography.x509certificates\4.3.0\ref\netstandard1.4\System.Security.Cryptography.X509Certificates.xml System.Size: 167913 
+13) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.0\System.Threading.Tasks.Dataflow.XML System.Size: 713945 
+14) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+15) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\net45\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+16) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.XML System.Size: 690988 
+17) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.threading.tasks.dataflow\4.7.0\lib\portable-net45+win8+wpa81\System.Threading.Tasks.Dataflow.XML System.Size: 690988 
+18) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.csharp\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.CSharp.xml System.Size: 2223170 
+19) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+20) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\System.Linq.Expressions.xml System.Size: 516220 
+21) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\de\System.Linq.Expressions.xml System.Size: 550845 
+22) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\es\System.Linq.Expressions.xml System.Size: 540328 
+23) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\fr\System.Linq.Expressions.xml System.Size: 542152 
+24) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\it\System.Linq.Expressions.xml System.Size: 538418 
+25) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ja\System.Linq.Expressions.xml System.Size: 558327 
+26) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ko\System.Linq.Expressions.xml System.Size: 534642 
+27) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\ru\System.Linq.Expressions.xml System.Size: 672577 
+28) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+29) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netcore50\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+30) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\System.Linq.Expressions.xml System.Size: 516220 
+31) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\net45\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+32) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\de\System.Linq.Expressions.xml System.Size: 550845 
+33) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.visualbasic\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.VisualBasic.xml System.Size: 4088913 
+34) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\es\System.Linq.Expressions.xml System.Size: 540328 
+35) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\fr\System.Linq.Expressions.xml System.Size: 542152 
+36) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\it\System.Linq.Expressions.xml System.Size: 538418 
+37) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\netstandard1.3\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+38) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ja\System.Linq.Expressions.xml System.Size: 558327 
+39) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ko\System.Linq.Expressions.xml System.Size: 534642 
+40) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\ru\System.Linq.Expressions.xml System.Size: 672577 
+41) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+42) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.0\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+43) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.codeanalysis.common\1.3.0\lib\portable-net45+win8\Microsoft.CodeAnalysis.xml System.Size: 1610297 
+44) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\System.Linq.Expressions.xml System.Size: 516220 
+45) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\de\System.Linq.Expressions.xml System.Size: 550845 
+46) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\es\System.Linq.Expressions.xml System.Size: 540328 
+47) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\fr\System.Linq.Expressions.xml System.Size: 542152 
+48) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\it\System.Linq.Expressions.xml System.Size: 538418 
+49) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ja\System.Linq.Expressions.xml System.Size: 558327 
+50) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ko\System.Linq.Expressions.xml System.Size: 534642 
+51) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\ru\System.Linq.Expressions.xml System.Size: 672577 
+52) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+53) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.3\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+54) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\System.Linq.Expressions.xml System.Size: 516220 
+55) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\de\System.Linq.Expressions.xml System.Size: 550845 
+56) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\es\System.Linq.Expressions.xml System.Size: 540328 
+57) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\fr\System.Linq.Expressions.xml System.Size: 542152 
+58) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\it\System.Linq.Expressions.xml System.Size: 538418 
+59) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ja\System.Linq.Expressions.xml System.Size: 558327 
+60) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ko\System.Linq.Expressions.xml System.Size: 534642 
+61) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\ru\System.Linq.Expressions.xml System.Size: 672577 
+62) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\zh-hans\System.Linq.Expressions.xml System.Size: 502158 
+63) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.linq.expressions\4.3.0\ref\netstandard1.6\zh-hant\System.Linq.Expressions.xml System.Size: 502603 
+64) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netcore50\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+65) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.1\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+66) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.2\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+67) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.3\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+68) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.3.0\ref\netstandard1.5\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+69) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.io.filesystem\4.3.0\ref\netstandard1.3\System.IO.FileSystem.xml System.Size: 283171 
+70) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netcore50\fr\System.Runtime.xml System.Size: 1562312 
+71) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.0\fr\System.Runtime.xml System.Size: 1562312 
+72) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.2\fr\System.Runtime.xml System.Size: 1562312 
+73) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.3\fr\System.Runtime.xml System.Size: 1562312 
+74) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.3.0\ref\netstandard1.5\fr\System.Runtime.xml System.Size: 1562312 
+75) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.io.filesystem\4.0.1\ref\netstandard1.3\System.IO.FileSystem.xml System.Size: 283171 
+76) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netcore50\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+77) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.1\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+78) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netcore50\fr\System.Runtime.xml System.Size: 1562312 
+79) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.2\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+80) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.3\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+81) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.0\fr\System.Runtime.xml System.Size: 1562312 
+82) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime.interopservices\4.1.0\ref\netstandard1.5\fr\System.Runtime.InteropServices.xml System.Size: 405928 
+83) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.2\fr\System.Runtime.xml System.Size: 1562312 
+84) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.3\fr\System.Runtime.xml System.Size: 1562312 
+85) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\system.runtime\4.1.0\ref\netstandard1.5\fr\System.Runtime.xml System.Size: 1562312 
+86) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\lib\util.js System.Size: 10484 
+87) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\dist\source-map.debug.js System.Size: 256678 
+88) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\node_modules\source-map\dist\source-map.js System.Size: 100453 
+89) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\amdefine\amdefine.js System.Size: 9916 
+90) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\source-map\lib\source-map\util.js System.Size: 10057 
+91) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\lib\compress.js System.Size: 174559 
+92) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\uglify-js\lib\output.js System.Size: 47893 
+93) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\ExpressApp1\ExpressApp1\node_modules\wordwrap\test\idleness.txt System.Size: 28635 
+94) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\My Web Sites\WebSite1\iisstart.htm System.Size: 691 
+95) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\Sample\Sourcecode\UpgradeLog.htm System.Size: 69504 
+96) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000001.xml System.Size: 255228 
+97) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\ExchangeServiceIISHost\fr000002.xml System.Size: 139746 
+98) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\WebApplication2\bin\System.Web.Http.xml System.Size: 539657 
+99) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\EntityFramework.xml System.Size: 3652961 
+100) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+101) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+102) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\bin\System.Web.Http.xml System.Size: 539657 
+103) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\jquery-1.10.2.js System.Size: 273990 
+104) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\jquery-ui-1.11.1.js System.Size: 464435 
+105) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+106) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Project_Readme.html System.Size: 5277 
+107) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\App_Start\BundleConfig.cs System.Size: 1723 
+108) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\App_Start\Startup.Auth.cs System.Size: 3513 
+109) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Controllers\AccountController.cs System.Size: 17811 
+110) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\Models\IdentityModels.cs System.Size: 1242 
+111) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\EntityFramework.6.1.1\lib\net40\EntityFramework.xml System.Size: 3210368 
+112) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.xml System.Size: 3623761 
+113) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\WebApplication1.csproj System.Size: 24332 
+114) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\jquery-1.10.2.js System.Size: 273990 
+115) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+116) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+117) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Scripts\sammy-0.7.4.js System.Size: 78702 
+118) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Models\IdentityModels.cs System.Size: 1295 
+119) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs System.Size: 21408 
+120) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\App_Start\BundleConfig.cs System.Size: 1877 
+121) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\WebApplication1\App_Start\Startup.Auth.cs System.Size: 4128 
+122) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.js System.Size: 78702 
+123) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 51458 
+124) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+125) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+126) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+127) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\knockoutjs.2.3.0\Content\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+128) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 215101 
+129) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273990 
+130) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+131) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebMyapps\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+132) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 214296 
+133) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273199 
+134) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Microsoft.AspNet.Identity.EntityFramework.2.1.0\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 46003 
+135) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Microsoft.Owin.Security.Cookies.3.0.0\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+136) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 50144 
+137) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\EntityFramework.xml System.Size: 3623761 
+138) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 46003 
+139) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2015\Projects\DynamicMVC1\DynamicMVC1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+140) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\App_Start\BundleConfig.cs System.Size: 1877 
+141) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\App_Start\Startup.Auth.cs System.Size: 4549 
+142) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Controllers\AccountController.cs System.Size: 18491 
+143) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Models\IdentityModels.cs System.Size: 1295 
+144) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\WebApplication1.csproj System.Size: 24578 
+145) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\EntityFramework.6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+146) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+147) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 215101 
+148) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\jQuery.1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273990 
+149) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.js System.Size: 273990 
+150) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\knockoutjs.2.3.0\Content\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+151) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\knockout-2.3.0.debug.js System.Size: 184002 
+152) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+153) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+154) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+155) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs System.Size: 21408 
+156) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Modernizr.2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 51458 
+157) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\modernizr-2.6.2.js System.Size: 51458 
+158) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\packages\Sammy.js.0.7.4\Content\Scripts\sammy-0.7.4.js System.Size: 78702 
+159) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\Scripts\sammy-0.7.4.js System.Size: 78702 
+160) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\EntityFramework.xml System.Size: 3652961 
+161) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml System.Size: 52609 
+162) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml System.Size: 33265 
+163) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication1\WebApplication1\bin\System.Web.Http.xml System.Size: 539657 
+164) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\WebApplication2\WebApplication2.csproj System.Size: 9359 
+165) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\Visual Studio 2017\Projects\WCF\WebApplication2\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+166) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000002.xml System.Size: 164191 
+167) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000005.xml System.Size: 164190 
+168) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000007.xml System.Size: 226443 
+169) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000009.xml System.Size: 164191 
+170) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000012.xml System.Size: 164207 
+171) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication2\fr000014.xml System.Size: 164207 
+172) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.aspnet.webapi.core\5.2.3\lib\net45\System.Web.Http.xml System.Size: 539657 
+173) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\jquery\1.10.2\Content\Scripts\jquery-1.10.2-vsdoc.js System.Size: 214296 
+174) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\jquery\1.10.2\Content\Scripts\jquery-1.10.2.js System.Size: 273199 
+175) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\modernizr\2.6.2\Content\Scripts\modernizr-2.6.2.js System.Size: 50144 
+176) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.1.3\lib\net40\EntityFramework.xml System.Size: 3229543 
+177) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.1.3\lib\net45\EntityFramework.xml System.Size: 3652961 
+178) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-animate.js System.Size: 150696 
+179) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-mocks.js System.Size: 108145 
+180) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular-scenario.js System.Size: 1504143 
+181) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.5.7\content\Scripts\angular.js System.Size: 1174125 
+182) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs.core\1.6.4\content\Scripts\angular-mocks.js System.Size: 119433 
+183) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs.core\1.6.4\content\Scripts\angular.js System.Size: 1249863 
+184) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006677.xml System.Size: 327122 
+185) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\entityframework\6.2.0\lib\net45\EntityFramework.xml System.Size: 3680079 
+186) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006682.xml System.Size: 326876 
+187) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\Downloads\rental_agreement.doc System.Size: 59392 
+188) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000022.xml System.Size: 255524 
+189) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000025.xml System.Size: 255524 
+190) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000006.xml System.Size: 162984 
+191) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000007.xml System.Size: 147994 
+192) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000028.xml System.Size: 255523 
+193) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\service\fr000032.xml System.Size: 255523 
+194) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplication3\fr006645.xml System.Size: 326889 
+195) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-animate.js System.Size: 150935 
+196) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-mocks.js System.Size: 119433 
+197) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular-scenario.js System.Size: 1583249 
+198) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\angularjs\1.6.4\content\Scripts\angular.js System.Size: 1249863 
+199) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000096.xml System.Size: 278449 
+200) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000097.xml System.Size: 288084 
+201) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000105.xml System.Size: 278424 
+202) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000113.xml System.Size: 365288 
+203) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000120.xml System.Size: 364964 
+204) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000121.xml System.Size: 365287 
+205) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\My Documents\IISExpress\TraceLogFiles\WebApplicationTest\fr000128.xml System.Size: 288182 
+206) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-vscode.azure-account-0.8.0\dist\cloudConsoleLauncher.js System.Size: 954373 
+207) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\net40\Microsoft.Data.Services.Client.xml System.Size: 1459578 
+208) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.Services.Client.xml System.Size: 1527281 
+209) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.services.client\5.6.4\lib\sl4\Microsoft.Data.Services.Client.xml System.Size: 1513315 
+210) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\net40\Microsoft.Data.OData.xml System.Size: 3709853 
+211) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\portable-net40+sl5+wp8+win8+wpa\Microsoft.Data.OData.xml System.Size: 3704771 
+212) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\portable-net45+wp8+win8+wpa\Microsoft.Data.OData.xml System.Size: 3720807 
+213) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.nuget\packages\microsoft.data.odata\5.6.4\lib\sl4\Microsoft.Data.OData.xml System.Size: 3493024 
+214) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\errors.js System.Size: 4357 
+215) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\transformers\baseSourceMapTransformer.js System.Size: 16380 
+216) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\chrome\chromeDebugSession.js System.Size: 13510 
+217) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\vscode-chrome-debug-core\out\src\chrome\crdpMultiplexing\crdpMultiplexor.js System.Size: 8985 
+218) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\lib\util.js System.Size: 12950 
+219) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\dist\source-map.debug.js System.Size: 272874 
+220) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\source-map\dist\source-map.js System.Size: 106973 
+221) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\minimatch\minimatch.js System.Size: 25347 
+222) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\msjsdiag.debugger-for-chrome-4.11.1\node_modules\inflight\inflight.js System.Size: 1365 
+223) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\server\node_modules\semver\semver.js System.Size: 37959 
+224) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\server\node_modules\minimatch\minimatch.js System.Size: 25347 
+225) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\out\extension.js System.Size: 21622 
+226) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\node_modules\vscode-languageclient\node_modules\semver\semver.js System.Size: 36504 
+227) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\eg2.tslint-1.0.42\node_modules\dom-walk\example\static\bundle.js System.Size: 14825 
+228) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\xregexp-all.js System.Size: 237359 
+229) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\src\xregexp.js System.Size: 71249 
+230) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xregexp\lib\xregexp.js System.Size: 71879 
+231) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\xml2js\node_modules\sax\lib\sax.js System.Size: 43541 
+232) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\vscode-azureappservice\lib\connectToGitHub.js System.Size: 10419 
+233) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\uri-js\tests\qunit.js System.Size: 29005 
+234) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\uri-js\dist\es5\uri.all.js System.Size: 55217 
+235) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\underscore\underscore.js System.Size: 58319 
+236) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\tough-cookie\node_modules\punycode\punycode.js System.Size: 14670 
+237) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sshpk\lib\formats\dnssec.js System.Size: 9193 
+238) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sshpk\lib\formats\x509.js System.Size: 19079 
+239) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\semver\semver.js System.Size: 37959 
+240) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sax\lib\sax.js System.Size: 37511 
+241) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\sax\examples\shopping.xml System.Size: 99650 
+242) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\readable-stream\lib\_stream_readable.js System.Size: 31309 
+243) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\readable-stream\lib\_stream_transform.js System.Size: 7727 
+244) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\punycode\punycode.es6.js System.Size: 12630 
+245) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\punycode\punycode.js System.Size: 12561 
+246) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\psl\dist\psl.js System.Size: 140285 
+247) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\psl\dist\psl.min.js System.Size: 124377 
+248) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\portfinder\node_modules\async\lib\async.js System.Size: 38564 
+249) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\portfinder\node_modules\async\dist\async.js System.Size: 38564 
+250) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\pend\index.js System.Size: 1101 
+251) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\pend\test.js System.Size: 2449 
+252) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ms-rest-azure\index.d.ts System.Size: 46784 
+253) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ms-rest-azure\lib\azureEnvironment.js System.Size: 9394 
+254) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\minimatch\minimatch.js System.Size: 25347 
+255) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\lru-cache\index.js System.Size: 10689 
+256) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\lodash\lodash.min.js System.Size: 73229 
+257) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\inflight\inflight.js System.Size: 1365 
+258) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\http-signature\lib\signer.js System.Size: 13013 
+259) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\graceful-fs\graceful-fs.js System.Size: 7552 
+260) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\fd-slicer\index.js System.Size: 7142 
+261) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\fd-slicer\test\test.js System.Size: 12129 
+262) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\extsprintf\lib\extsprintf.js System.Size: 4172 
+263) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\date-utils\doc\scripts\docstrap.lib.js System.Size: 312524 
+264) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\dashdash\lib\dashdash.js System.Size: 35297 
+265) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\buffer\index.js System.Size: 48761 
+266) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\base64-js\index.js System.Size: 3940 
+267) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\underscore\underscore.js System.Size: 52919 
+268) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\readable-stream\lib\_stream_readable.js System.Size: 25638 
+269) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\node_modules\readable-stream\lib\_stream_transform.js System.Size: 6354 
+270) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\lib\common\services\storageserviceclient.js System.Size: 59415 
+271) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-blob.html System.Size: 28668 
+272) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-file.html System.Size: 31114 
+273) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-queue.html System.Size: 24643 
+274) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\azure-storage\browser\samples\sample-table.html System.Size: 23500 
+275) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\asynckit\lib\iterate.js System.Size: 1794 
+276) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\cargo.js System.Size: 4651 
+277) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\queue.js System.Size: 5855 
+278) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\internal\applyEach.js System.Size: 1056 
+279) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\async\dist\async.js System.Size: 184505 
+280) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\ajv\dist\ajv.bundle.js System.Size: 265540 
+281) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\adal-node\lib\authentication-parameters.js System.Size: 10946 
+282) System.Search.Rank: 1000 System.ItemPathDisplay: C:\Users\gp\.vscode\extensions\ms-azuretools.vscode-azurefunctions-0.13.1\node_modules\adal-node\lib\log.js System.Size: 7609 
+283) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Favorites Bar\Web Slice Gallery.url System.Size: 226 
+284) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Websites for United States\USA.gov.url System.Size: 134 
+285) System.Search.Rank: 48 System.ItemPathDisplay: C:\Users\gp\Favorites\Websites for United States\GobiernoUSA.gov.url System.Size: 134 
